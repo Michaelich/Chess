@@ -1,2 +1,2 @@
 # Chess
-Napisana w Python gra w szachy
+Local implementation of chess rules. Program allows to exchange moves between two players. After finished game results are saved to local database.
